@@ -2,7 +2,7 @@
        PROGRAM-ID.       CWXTCOB.
       ******************************************************************
       *                                                                *
-      ******      C O M P U W A R E   C O R P O R A T I O N       ******
+      ******************************************************************
       *                                                                *
       *  THIS PROGRAM IS THE COBOL DEMO PROGRAM USED FOR XPEDITER/TSO  *
       *  TRAINING SESSIONS.     MKS-040224                             *
@@ -13,7 +13,7 @@
       *              - REGIONAL SALES REPORT                           *
       *                                                                *
       *  RUN JCL     - STORED IN XPEDITER/TSO SAMPLIB (CWXTJCLC)       *
-      *  DDL2 11/10/25                                                 *
+      *  DDL2 11/11/25                                                 *
       ******************************************************************
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
