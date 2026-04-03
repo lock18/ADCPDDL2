@@ -13,7 +13,7 @@ String Jenkins_CES_Credentials = "PMIDDL0-CES"
 String ISPW_Runtime_Config  = "ICCGA"
 String ISPW_Assignment = ""
 String ISPW_Level= "STG"    // Pre prod level
-String Git_Credential_Id = "PMIDDL0-GITHUB"
+String Git_Credential_Id = "PMIDDL0-GITHUB2"
 String Git_Repo_Url = "https://github.com/lock18/ADCPDDL2.git"
 
 println "branch: " + env.BRANCH_NAME
